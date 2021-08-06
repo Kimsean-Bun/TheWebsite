@@ -69,7 +69,6 @@ img{
 }
 .column{
     float: left;
-    width: 22%;
     padding: 10px;
 }
 .row:after {
@@ -86,4 +85,5 @@ img{
 }
 #right{
     margin-left: 50px;
+    width: 30%;
 }
